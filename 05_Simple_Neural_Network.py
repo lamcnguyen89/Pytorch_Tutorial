@@ -1,7 +1,7 @@
 # =====================================================#
-#             Tensor Reshaping      #
+#             Pytorch Neural Network Example      #
 # =====================================================#
-# From Aladdin Persson video entitled: Complete Pytorch Tensor Tutorial(Initializing Tensors, Math, Indexing, Reshaping)
+# From Aladdin Persson video entitled: Complete Pytorch Tensor Tutorial(Pytorch Neural Network Example)
 
 import torch
 import torch.nn as nn # All the Neural network models, loss functions
