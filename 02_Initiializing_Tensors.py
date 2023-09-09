@@ -2,6 +2,7 @@
 #               Initializing Tensors                   #
 # =====================================================#
 # From Aladdin Persson video entitled: Complete Pytorch Tensor Tutorial(Initializing Tensors, Math, Indexing, Reshaping)
+# Useless Comment
 
 import torch
 
