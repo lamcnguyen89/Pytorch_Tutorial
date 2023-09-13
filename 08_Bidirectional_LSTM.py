@@ -3,6 +3,8 @@
 # =====================================================#
 # From Aladdin Persson video entitled: Pytorch Bidirectional LSTM example
 
+# A Bidirectional long-short term memory(Bidirectional LSTM) is the process of making any neural network to have the sequence information in both directions backwards (future to past) or forward(past to future) 
+
 import torch
 import torch.nn as nn # All the Neural network models, loss functions
 import torch.optim as optim # Optimization algorithms
