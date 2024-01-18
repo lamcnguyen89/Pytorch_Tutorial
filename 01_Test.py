@@ -1,5 +1,5 @@
 # File to test if the Virtual Environment and Packages are all working correctly:
-# Added comment
+
 """
     1. First create the environment in the terminal using the command:
             conda create --name environment_name
